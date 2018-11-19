@@ -66,7 +66,8 @@ specification. The default configuration is:
   ["SOUND", "DTMF", "NUMPAD_2"],
   ["FREEZE", "A", "NUMPAD_8"],
   ["TRIA_RIGHT", "vR", "NUMPAD_6"]
-]```
+]
+```
 
 Each button needs three items: an icon name (check the
 [Display_All_Icons](https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Development/Display_All_Icons) add-on for the full list), the marker label, and a
